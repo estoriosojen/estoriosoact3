@@ -13,16 +13,16 @@ body{
 
 header{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background: pink;
+    background:midnightblue;
    
     color: white;
     padding: 8px 20px;
 }
 
 .bg-gradient{
-    background: pink;  /* fallback for old browsers */
-    background: pink;  /* Chrome 10-25, Safari 5.1-6 */
-    background: pink; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: maroon;  /* fallback for old browsers */
+    background: maroon;  /* Chrome 10-25, Safari 5.1-6 */
+    background: maroon; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .container{
@@ -105,7 +105,7 @@ h2{
     padding:20px;
 }
 #status{
-    border: 1px solid pink;
+    border: 1px solid maroon;
     border-radius: 15px;
    padding : 20px;
    margin : 20px;
